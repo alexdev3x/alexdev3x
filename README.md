@@ -30,7 +30,7 @@
 </p>
 
 ## 📝 Discord Account
-<a href=”https://discord.com/users/840663232904429585">
+</a>https://discord.com/users/840663232904429585</a>
 
 <a href=""><img src=""/></a>
 <br><br>
