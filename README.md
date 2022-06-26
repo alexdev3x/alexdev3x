@@ -29,8 +29,8 @@
 <code align="left"><img height="20" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" /></code>
 </p>
 
-## 📝 Discord Server
-<code><img height="20" src="https://discord.com/users/840663232904429585"></code>
+## 📝 Discord Account
+<a href=”https://discord.com/users/840663232904429585">
 
 <a href=""><img src=""/></a>
 <br><br>
