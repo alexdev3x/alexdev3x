@@ -30,7 +30,8 @@
 </p>
 
 ## 📝 Discord Server
-Currently in Development!
+<code><img height="20" src="https://discord.com/users/840663232904429585"></code>
+
 <a href=""><img src=""/></a>
 <br><br>
 </div>
