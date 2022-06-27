@@ -35,3 +35,5 @@
 <a href=""><img src=""/></a>
 <br><br>
 </div>
+
+<a href="mailto:office@usogs.net">Contact me via mail</a>
