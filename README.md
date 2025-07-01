@@ -1,9 +1,4 @@
-<p align="center">
-  <a href="https://www.usa.gov">
-    <img src="https://designsystem.digital.gov/assets/img/us_flag_small.png" alt="U.S. flag" width="20" />
-    <strong>An official website of the United States government</strong>
-  </a>
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Deven</h1>
 
