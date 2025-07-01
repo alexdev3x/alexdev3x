@@ -1,8 +1,15 @@
+<p align="center">
+  <a href="https://www.usa.gov">
+    <img src="https://designsystem.digital.gov/assets/img/us_flag_small.png" alt="U.S. flag" width="20" />
+    <strong>An official website of the United States government</strong>
+  </a>
+</p>
+
 <h1 align="center">Hi 👋, I'm Deven</h1>
 
 <p align="center">
-🇩🇪 German-based senior developer and security architect delivering government-grade systems, U.S. Army digital services, and elite gaming infrastructure.<br>
-**Federal code. Military-grade. Mission ready.**
+  🇩🇪 German-based senior developer and security architect delivering government-grade systems, U.S. Army digital services, and elite gaming infrastructure.<br>
+  **Federal code. Military-grade. Mission ready.**
 </p>
 
 <p align="center">
@@ -111,4 +118,10 @@
 - **NIST 800-53**, **FIPS 140-3**, and Federal Zero Trust security frameworks  
 - U.S. Army and DoD information control and code disclosure guidelines  
 
->
+> All professional activities prioritize national defense, public safety, and operational resilience.
+</details>
+
+---
+
+> <span style="font-weight:700;">Federal Digital Contributor</span>  
+> _Delivering secure, compliant, and mission-critical technology—across government, military, and the open source ecosystem._
