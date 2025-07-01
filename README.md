@@ -3,9 +3,7 @@
 <h1 align="center">Hi 👋, I'm Deven</h1>
 
 <p align="center">
-  🇩🇪 German-based senior developer and security architect delivering government-grade systems, U.S. Army digital services, and elite gaming infrastructure.<br>
-  **Federal code. Military-grade. Mission ready.**
-</p>
+  🇩🇪 German-based senior developer and security architect delivering government-grade systems, U.S. Army digital services, and elite gaming infrastructure.</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/frontend-%23009688.svg?style=for-the-badge&logo=html5&logoColor=white" alt="Frontend"/>
