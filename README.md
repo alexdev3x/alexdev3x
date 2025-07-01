@@ -1,17 +1,5 @@
 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/GSA/USWDS/develop/static/img/uswds-logo/usa-logo-alt.svg" width="112" alt="USWDS Logo" />
-  <br>
-  <span style="color:#005ea2; font-size:2.1rem; font-family:Segoe UI, Arial, sans-serif; font-weight:700;">
-    Federal Digital Contributor • Full Stack / Cybersecurity Engineer
-  </span>
-  <br>
-  <span style="background:#f0f0f0;color:#162e51;font-size:1.2rem;padding:5px 13px;border-radius:7px;border:1.5px solid #bdbdbd;box-shadow:0 1px 3px #d6dde5;">Aligned with U.S. Web Design System, NIST, and Federal Open Source Directives</span>
-</p>
-
-<br>
-
 <h1 align="center" style="color:#112e51;font-size:2.4rem;margin-top:0;">Hi 👋, I'm Deven</h1>
 
 <p align="center" style="font-size:1.12rem;font-weight:500;">
