@@ -18,8 +18,6 @@
 
 We develop large-scale AI models and multimodal systems that integrate text, vision, audio, and video. Our focus is on creating advanced tools for science, healthcare, and enterprise applications—while ensuring alignment and safety.
 
-<script>console.log("Fluxion Inc. section loaded successfully");</script>
-
 ---
 
 ## Technical Stack
@@ -27,8 +25,6 @@ We develop large-scale AI models and multimodal systems that integrate text, vis
 | **Languages**            | **Frameworks & Libraries**      | **Databases**               | **AI/Tools**                            |
 | ------------------------- | -------------------------------- | --------------------------- | --------------------------------------- |
 | Python, C++, Rust, TS     | PyTorch, TensorFlow, JAX        | PostgreSQL, MongoDB, Milvus | HuggingFace, OpenAI APIs, Docker, Ray   |
-
-<script>console.log("Technical Stack table rendered");</script>
 
 ---
 
@@ -47,8 +43,6 @@ We develop large-scale AI models and multimodal systems that integrate text, vis
 ### OrbitExSpace – AI for Space
 - AI-enhanced mission planning and orbital data analysis
 
-<script>console.log("Flagship Projects section displayed");</script>
-
 ---
 
 ## GitHub Stats
@@ -61,8 +55,6 @@ We develop large-scale AI models and multimodal systems that integrate text, vis
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sreichenbaecher&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
 </p>
-
-<script>console.log("GitHub Stats loaded");</script>
 
 ---
 
@@ -80,8 +72,6 @@ We develop large-scale AI models and multimodal systems that integrate text, vis
   </a>
 </p>
 
-<script>console.log("Contact links rendered");</script>
-
 ---
 
 ## Contact Form
@@ -92,8 +82,6 @@ We develop large-scale AI models and multimodal systems that integrate text, vis
   <textarea name="message" placeholder="Message" rows="5" required style="width:100%;padding:8px;margin:6px 0;"></textarea>
   <button type="submit" style="background:#005ea2;color:white;padding:10px 20px;border:none;cursor:pointer;">Send</button>
 </form>
-
-<script>console.log("Contact form initialized");</script>
 
 ---
 
