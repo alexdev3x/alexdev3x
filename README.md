@@ -53,7 +53,7 @@ We develop large-scale AI models and multimodal systems that integrate text, vis
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sreichenbaecher&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreichenbaecher&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
 </p>
 
 ---
