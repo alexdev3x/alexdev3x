@@ -1,7 +1,7 @@
 <h1 align="center">Sascha Reichenbächer – Founder & Director of Fluxion Inc.</h1>
 
 <p align="center">
-  🇩🇪 Leading <strong>Fluxion Inc.</strong>, an advanced AI research company pioneering frontier models, multimodal intelligence, and scalable digital ecosystems for the next generation of science and society.
+  🇩🇪 Leading <strong>Fluxion Inc.</strong>, an advanced AI research company building frontier models, multimodal intelligence, and scalable digital ecosystems.
 </p>
 
 <p align="center">
@@ -9,57 +9,49 @@
   <img src="https://img.shields.io/badge/Generative%20AI-%23000000.svg?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Generative AI"/>
   <img src="https://img.shields.io/badge/Machine%20Learning-%23005ea2?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning"/>
   <img src="https://img.shields.io/badge/Multimodal%20Models-orange?style=for-the-badge&logo=databricks&logoColor=white" alt="Multimodal Models"/>
-  <img src="https://img.shields.io/badge/Frontier%20Research-purple?style=for-the-badge&logo=apachespark&logoColor=white" alt="Frontier Research"/>
   <img src="https://img.shields.io/badge/Open%20Source-Contributor-%23121011?style=for-the-badge" alt="Open Source"/>
 </p>
 
 ---
 
-## Fluxion Inc. – Pioneering Advanced AI
+## Fluxion Inc.
 
-Fluxion Inc. is dedicated to pushing the boundaries of artificial intelligence through large-scale models, multimodal reasoning, and scientific alignment. Our work bridges AI research with applied innovation, building the infrastructure for AGI-inspired systems.
+We develop large-scale AI models and multimodal systems that integrate text, vision, audio, and video. Our focus is on creating advanced tools for science, healthcare, and enterprise applications—while ensuring alignment and safety.
 
-### Core Domains
-- **Frontier Models:** Training and optimizing LLMs beyond GPT-scale, integrating reasoning, creativity, and emergent intelligence.
-- **Multimodal Systems:** Bridging text, vision, audio, and video for true synthetic understanding and generative capability.
-- **AI for Science:** Applying machine intelligence to accelerate discoveries in medicine, biology, physics, and aerospace.
-- **Enterprise AI:** Deploying secure, scalable, and transformative AI platforms for global organizations.
-- **Ethics & Alignment:** Embedding safety, interpretability, and alignment into every stage of model development.
+<script>console.log("Fluxion Inc. section loaded successfully");</script>
 
 ---
 
-## Technical Arsenal
+## Technical Stack
 
-| **Languages**                          | **Frameworks & Libraries**             | **Databases**                        | **AI/Tools**                                     |
-| -------------------------------------- | -------------------------------------- | ------------------------------------ | ------------------------------------------------ |
-| Python, C++, Rust, Julia, TypeScript   | PyTorch, TensorFlow, JAX, DeepSpeed    | PostgreSQL, Redis, MongoDB, Milvus   | HuggingFace, OpenAI APIs, Supabase, Docker, Ray   |
+| **Languages**            | **Frameworks & Libraries**      | **Databases**               | **AI/Tools**                            |
+| ------------------------- | -------------------------------- | --------------------------- | --------------------------------------- |
+| Python, C++, Rust, TS     | PyTorch, TensorFlow, JAX        | PostgreSQL, MongoDB, Milvus | HuggingFace, OpenAI APIs, Docker, Ray   |
+
+<script>console.log("Technical Stack table rendered");</script>
 
 ---
 
 ## Flagship Projects
 
-### Syndra – The Next-Gen AI Core
-- Multimodal AI (text, image, video, code) with advanced reasoning
-- Frontier training infrastructure leveraging distributed GPU/TPU clusters
-- Enterprise-grade APIs and developer ecosystem
+### Syndra – AI Core
+- Multimodal AI with advanced reasoning
+- Scalable infrastructure for enterprise & research
 
-### Horizons – Reinventing Communication
-- AI-driven community platform with real-time translation, knowledge bots, and contextual intelligence
-- Spatial audio, VR/AR integration, and dynamic AI agents
+### Horizons – AI Communication
+- AI-driven platform with real-time translation and contextual intelligence
 
 ### DocPoint & VirtualMD – AI for Medicine
-- Advanced AI assistants for diagnosis, structured intake, and predictive analytics
-- ICD-10/ICD-11 integration with multilingual medical reasoning
-- Ethical AI ensuring patient data safety and scientific accuracy
+- AI-powered telemedicine and structured medical intake
 
-### OrbitExSpace – AI Beyond Earth
+### OrbitExSpace – AI for Space
 - AI-enhanced mission planning and orbital data analysis
-- Real-time space communication optimization with generative prediction
-- Next-generation research collaboration with aerospace organizations
+
+<script>console.log("Flagship Projects section displayed");</script>
 
 ---
 
-## GitHub Insights & Metrics
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sreichenbaecher&show_icons=true&theme=default&hide_border=false&locale=en" alt="GitHub Stats" width="45%"/>
@@ -70,33 +62,11 @@ Fluxion Inc. is dedicated to pushing the boundaries of artificial intelligence t
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sreichenbaecher&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sreichenbaecher&margin-w=15&row=1&theme=flat" alt="GitHub Trophies"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sreichenbaecher&style=for-the-badge&color=blue" alt="Profile Views"/>
-  <img src="https://img.shields.io/badge/Years%20Active-5-brightgreen?style=for-the-badge" alt="Years Active"/>
-  <img src="https://img.shields.io/badge/Contributions-Consistent-orange?style=for-the-badge" alt="Contributions"/>
-  <img src="https://img.shields.io/badge/Achievement-Maintainer-blueviolet?style=for-the-badge" alt="Maintainer Badge"/>
-  <img src="https://img.shields.io/badge/Community-Builder-yellow?style=for-the-badge" alt="Community Builder"/>
-</p>
+<script>console.log("GitHub Stats loaded");</script>
 
 ---
 
-## Vision & Roadmap
-
-- **AGI Horizon:** Developing systems that reason, adapt, and learn with minimal supervision.
-- **AI for Humanity:** Empowering healthcare, education, and sustainability with aligned intelligence.
-- **Global Research Alliances:** Collaborating with academic, governmental, and private institutions for open science.
-- **AI Alignment & Ethics:** Building transparent, interpretable, and safe systems for long-term deployment.
-- **Scalable Infrastructure:** Designing distributed AI platforms capable of training trillion-parameter models.
-
----
-
-## Contact & Research Links
+## Contact
 
 <p align="left">
   <a href="https://www.linkedin.com/in/sreichenbaecher" target="_blank" rel="noopener noreferrer">
@@ -110,40 +80,22 @@ Fluxion Inc. is dedicated to pushing the boundaries of artificial intelligence t
   </a>
 </p>
 
+<script>console.log("Contact links rendered");</script>
+
 ---
 
 ## Contact Form
 
-You can reach me directly via this form:
-
-<form action="https://formspree.io/f/mayplxyz" method="POST">
-  <label for="name">Your Name:</label><br>
-  <input type="text" id="name" name="name" required><br><br>
-
-  <label for="email">Your Email:</label><br>
-  <input type="email" id="email" name="email" required><br><br>
-
-  <label for="message">Message:</label><br>
-  <textarea id="message" name="message" rows="5" required></textarea><br><br>
-
-  <button type="submit">Send</button>
+<form action="https://formspree.io/f/mayplxyz" method="POST" style="max-width:500px;margin:auto;">
+  <input type="text" name="name" placeholder="Your Name" required style="width:100%;padding:8px;margin:6px 0;">
+  <input type="email" name="email" placeholder="Your Email" required style="width:100%;padding:8px;margin:6px 0;">
+  <textarea name="message" placeholder="Message" rows="5" required style="width:100%;padding:8px;margin:6px 0;"></textarea>
+  <button type="submit" style="background:#005ea2;color:white;padding:10px 20px;border:none;cursor:pointer;">Send</button>
 </form>
 
----
-
-<details>
-<summary><strong>Research Alignment & Principles</strong></summary>
-
-- Inspired by OpenAI & DeepMind: pushing the limits of frontier AI research  
-- Scaling Laws: applying cutting-edge methods to optimize training dynamics  
-- Multimodal Reasoning: enabling AI to interpret and generate across modalities  
-- AI for Science: leveraging models to accelerate human discovery  
-- Ethics First: transparency, interpretability, and safety at every layer
-
-> Fluxion Inc. drives high-impact AI research, shaping the frontier of artificial intelligence with responsibility, scale, and vision.
-</details>
+<script>console.log("Contact form initialized");</script>
 
 ---
 
 > <span style="font-weight:700;">Founder & Director – Fluxion Inc.</span>  
-> Shaping the future of AI through frontier models, multimodal intelligence, and human-aligned research.
+> Building the future of AI through frontier models and multimodal intelligence.
